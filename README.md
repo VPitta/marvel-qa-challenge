@@ -9,6 +9,7 @@
 ## 💻 Sobre o Projeto
 Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel API**, com foco em:  
 - Testes **automatizados de API** com **Cypress**  
+- Testes **manuais de API** com **Postman**  
 - Testes **E2E** (opcional) em interface web  
 - Documentação de testes no **Jira**  
 - Boas práticas de QA, rastreabilidade e cobertura de testes  
@@ -17,27 +18,28 @@ Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel A
 
 ## 🗺️ Roadmap / Passos do Desafio
 
-### 🔄 Semana 1 – Preparação
+### ✅ Semana 1 – Preparação
 - Criar conta no [Marvel Developer](https://developer.marvel.com/)  
 - Gerar **API Key**  
 - Ler documentação dos endpoints (`characters`, `comics`, `series`)  
 - Configurar repositório GitHub e estrutura inicial do Cypress  
 
-### 🔄 Semana 2 – Testes de API com Cypress
+### ✅ Semana 2 – Testes de API
 - Testar **characters endpoint** (status code, campos obrigatórios, busca por personagem)  
 - Testar **comics endpoint** (status code, filtros, campos obrigatórios)  
 - Testar **series endpoint** (status code, campos obrigatórios)  
 - Testar respostas inválidas (ID inexistente, erros)  
+- Validar resultados **manualmente no Postman** e comparar com os testes automatizados do Cypress  
 
-### 🔄 Semana 3 – Testes Manuais & Jira
+### ✅ Semana 3 – Testes Manuais & Jira
 - Criar casos de teste no **Jira** (pré-condições, passos, resultados esperados)  
 - Executar testes manuais e comparar com resultados automatizados  
 
-### 🔄 Semana 4 – Testes E2E (opcional)
+### ✅ Semana 4 – Testes E2E (opcional)
 - Criar interface web simples consumindo a Marvel API  
 - Testar com Cypress E2E se dados exibidos correspondem à API  
 
-### 🔄 Semana 5 – Finalização & GitHub
+### ✅ Semana 5 – Finalização & GitHub
 - Estruturar README.md do projeto  
 - Commit final dos testes Cypress  
 - Commit dos casos de teste no Jira  
@@ -66,4 +68,4 @@ Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel A
 
 ---
 
-✨ **Objetivo:** Evoluir em QA, praticar testes automatizados e de API, documentar tudo com rastreabilidade e mostrar resultados profissionais no GitHub.
+✨ **Objetivo:** Evoluir em QA, praticar testes automatizados e manuais de API, documentar tudo com rastreabilidade e mostrar resultados profissionais no GitHub.
