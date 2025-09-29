@@ -2,9 +2,6 @@
 
 ![Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/programming.svg" width="400"/>
-</p>
 
 ## 💻 Sobre o Projeto
 Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel API**, com foco em:  
