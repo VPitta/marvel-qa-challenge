@@ -6,6 +6,20 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/programming.svg" width="400"/>
 </p>
 
+---
+
+## 🛠️ Tecnologias Utilizadas
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+---
+
 ## 💻 Sobre o Projeto
 Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel API**, com foco em:  
 - Testes **automatizados de API** com **Cypress**  
@@ -91,18 +105,6 @@ Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel A
 - [ ] Commit final dos testes **Cypress**  
 - [ ] Commit dos casos de teste no **Jira**  
 - [ ] Linkar README com badges das tecnologias utilizadas  
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
 
 ---
 
