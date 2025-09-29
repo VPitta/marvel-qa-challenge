@@ -17,12 +17,16 @@
 ---
 
 ## 💻 Sobre o Projeto
-Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel API**, com foco em:  
+
+Este projeto é um **desafio autoral**, criado por mim com o objetivo de praticar e aprofundar meus conhecimentos em **Quality Assurance (QA)**.  
+O foco é realizar **testes automatizados e manuais** utilizando a [Marvel API](https://developer.marvel.com/docs), aplicando boas práticas de QA e garantindo rastreabilidade e cobertura de testes.  
+
+### Principais atividades do projeto:
 - Testes **automatizados de API** com **Cypress**  
 - Testes **manuais de API** com **Postman**  
 - Testes **E2E** em interface web  
-- Documentação de testes no **Jira**  
-- Boas práticas de QA, rastreabilidade e cobertura de testes  
+- Registro e documentação de testes no **Jira**  
+- Aplicação de boas práticas de QA e rastreabilidade 
 
 ---
 
