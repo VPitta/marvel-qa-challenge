@@ -18,28 +18,28 @@ Este projeto é um **desafio de Quality Assurance (QA)** utilizando a **Marvel A
 
 ## 🗺️ Roadmap / Passos do Desafio
 
-### ✅ Semana 1 – Preparação
+### 🔄 Semana 1 – Preparação
 - Criar conta no [Marvel Developer](https://developer.marvel.com/)  
 - Gerar **API Key**  
 - Ler documentação dos endpoints (`characters`, `comics`, `series`)  
 - Configurar repositório GitHub e estrutura inicial do Cypress  
 
-### ✅ Semana 2 – Testes de API
+### 🔄 Semana 2 – Testes de API
 - Testar **characters endpoint** (status code, campos obrigatórios, busca por personagem)  
 - Testar **comics endpoint** (status code, filtros, campos obrigatórios)  
 - Testar **series endpoint** (status code, campos obrigatórios)  
 - Testar respostas inválidas (ID inexistente, erros)  
 - Validar resultados **manualmente no Postman** e comparar com os testes automatizados do Cypress  
 
-### ✅ Semana 3 – Testes Manuais & Jira
+### 🔄 Semana 3 – Testes Manuais & Jira
 - Criar casos de teste no **Jira** (pré-condições, passos, resultados esperados)  
 - Executar testes manuais e comparar com resultados automatizados  
 
-### ✅ Semana 4 – Testes E2E (opcional)
+### 🔄 Semana 4 – Testes E2E 
 - Criar interface web simples consumindo a Marvel API  
 - Testar com Cypress E2E se dados exibidos correspondem à API  
 
-### ✅ Semana 5 – Finalização & GitHub
+### 🔄 Semana 5 – Finalização & GitHub
 - Estruturar README.md do projeto  
 - Commit final dos testes Cypress  
 - Commit dos casos de teste no Jira  
